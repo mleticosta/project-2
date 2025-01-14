@@ -9,7 +9,10 @@ Objetivo: Limpar, organizar e criar um dashboard simples.
 3. Aplicação de fórmulas como CONCAT, PROCX e outras, que podem ser encontradas no documento.
 4. Inserção de uma Tabela Dinâmica a partir da qual o dashboard foi criado.
 
+Confira o arquivo final acima.
+
 ## Antes e depois dos dados: 
+![Captura de tela 2025-01-14 200806](https://github.com/user-attachments/assets/861cc13a-853b-4148-bf1d-0fbf10d0882b) ![Captura de tela 2025-01-14 200812](https://github.com/user-attachments/assets/132a193f-0ea7-4b36-92d2-3f815ec4d010)
 
 
 
